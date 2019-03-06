@@ -1,0 +1,12 @@
+celular-asus
+celular-blu
+celular-lg
+celular-motorola
+celular-multilaser
+celular-riu
+celular-samsung
+liquidificador-arno
+liquidificador-britania
+liquidificador-mondial
+ventilador-arno
+ventilador-mondial
